@@ -22,4 +22,6 @@ Lesano
 
 > Sou programador em Python.
 
-> O meu sonho é ser informático ou qualquer coisa na área de tecnologia. 
+> O meu sonho é ser informático ou qualquer coisa na área de tecnologia.
+
+> Meu [linktr.ee](https://linktr.ee/Lesano)
