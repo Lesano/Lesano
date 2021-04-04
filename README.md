@@ -1,16 +1,25 @@
-### Hi there 👋
+<h1 align="center">
+  <br>
+<a href="https://www.youtube.com/channel/UCc-eHAuCocubjo1JcCKgZcQ"><img src="https://i.ibb.co/3M7vrpX/32-Sem-Titulo-20210404170003.png" alt="32-Sem-Titulo-20210404170003" border="0"></a>
+  <br>
+Lesano
+  <br>
+</h1>
 
-<!--
-**Lesano/Lesano** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h4 align="center">Olá, como vocês estão? Aqui vai algumas informações minhas 😳</h4>
 
-Here are some ideas to get you started:
+ㅤㅤㅤㅤ![Lesano Stats](https://github-readme-stats.vercel.app/api?username=Lesano&theme=dark&show_icons=true)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+> Eu nasci em Almada, Portugal.
+
+> Bisexual.
+
+> Tenho 19 anos e faço aniversário no dia três de abril.
+
+> Obrigado ao Slimakoi, ao Luiz, ao SempreLEGIT por me ajudarem.
+
+> A lib que atualmente uso mais é o [Amino.py](https://github.com/Slimakoi/Amino.py)
+
+> Sou programador em Python.
+
+> O meu sonho é ser informático ou qualquer coisa na área de tecnologia. 
