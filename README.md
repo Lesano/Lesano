@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Lesano and I'm a male, from Portugal</h2>
+<h2 align="left">Hi 👋! My name is Lesano and I'm a ♂️, from 🇵🇹</h2>
 
 ###
 
