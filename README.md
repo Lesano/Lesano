@@ -1,35 +1,51 @@
-<h2 align="left">Hi 👋! My name is Lesano and I'm a ♂️, from 🇵🇹</h2>
+<img align="right" height="300"
+style="border-radius: 8px;"
+src="https://camo.githubusercontent.com/91cce068971f91be9134cc234cc2143ac1e5aaa8e9cf837add775ab1408ff15e/68747470733a2f2f692e6962622e636f2f464c6a44467750582f7475782e706e67"
+alt="Lesano Tsuki - Snow Leopard Fursona" />
 
-###
+<p align="left">
+  🐾 <b>Lesano Tsuki</b> — 🇵🇹 Portugal
+</p>
 
-<img align="right" height="150" src="https://i.giphy.com/j0kP7fOkKQlYsXTO2r.webp"  />
+<p align="left">
+  ❄️ Snow leopard furry • 🐆 Furry as a <b>hobby</b><br>
+  🎨 Pixel art • soft colors • winter vibes<br>
+  💻 Programming for fun • 🤖 automation & Telegram bots
+</p>
 
-###
+<p align="left">
+  ❄️ ❄️ ❄️
+</p>
+
+<p align="left">
+  🐧❄️ <i>cozy vibes • pixel fluff • quiet rawr 🐾</i>
+</p>
+
+<h3 align="left">Programming 💻</h3>
+
+<p align="left">
+  🐍 <b>Python</b> — intermediate <br>
+  🤖 Telegram bots • automation • small tools
+</p>
+
+<p align="left">
+  🐧 <b>Linux user</b> — daily <br>
+  My main environment for coding and tinkering ksks
+</p>
 
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="30" alt="linux logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" height="30" alt="android logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="32" />
+  <img width="10" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="32" />
 </div>
 
-###
+<hr>
 
-<div align="left">
-  <a href="https://www.youtube.com/@LesanoPY" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="youtube logo"  />
-  </a>
-  <a href="email:lesano@programmer.net" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
-  </a>
-  <a href="https://t.me/Lesaninhu" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Telegram&logo=telegram&label=&color=2CA5E0&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="telegram logo"  />
-  </a>
-</div>
+<p align="left">
+  🐾 Thanks for stopping by. <br>
+  This profile is a mix of code, hobbies, and cozy winter vibes ❄️
+</p>
 
-###
+<p align="left">
+  <i>quiet rawr • cold code • cozy fluff 🐧🐆</i>
+</p>
