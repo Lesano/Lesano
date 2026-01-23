@@ -2,12 +2,23 @@
   align="right"
   src="https://camo.githubusercontent.com/91cce068971f91be9134cc234cc2143ac1e5aaa8e9cf837add775ab1408ff15e/68747470733a2f2f692e6962622e636f2f464c6a44467750582f7475782e706e67"
   alt="Lesano Tsuki - Snow Leopard Fursona"
-  style="
-    border-radius: 8px;
-    width: 300px;
-    max-width: 150px;
-  "
+  class="profile-img"
 />
+
+<style>
+  .profile-img {
+    border-radius: 8px;
+    height: 300px;
+  }
+
+  /* Para telas pequenas (cell) */
+  @media (max-width: 768px) {
+    .profile-img {
+      height: 150px;
+    }
+  }
+</style>
+
 
 
 <p align="left">
